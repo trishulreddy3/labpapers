@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1083681645977",
+    "project_id": "labpapers-4db23",
+    "storage_bucket": "labpapers-4db23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083681645977:android:897de468f5d54b020e9f08",
+        "android_client_info": {
+          "package_name": "com.example.papers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083681645977-1kikl7qad41m64o1rh3bmsrs9e99vb0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.papers",
+            "certificate_hash": "fdc82c06873386f52e7dbc30d983a83b8bde9839"
+          }
+        },
+        {
+          "client_id": "1083681645977-fje0ac5f1qba1f91g48ocujuevaj1but.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUEmMQGLb8J4knX3-HtUZdVVG9INOts5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083681645977-fje0ac5f1qba1f91g48ocujuevaj1but.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083681645977-c1hi2h2ddnr8gm9mvbiuim3tt7o75me6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.papers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
